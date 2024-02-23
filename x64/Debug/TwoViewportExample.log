@@ -1,0 +1,111 @@
+﻿  doublefree.cpp
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(48,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(102,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(190,73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(191,73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(192,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(197,81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(198,81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(199,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(203,81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(204,81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(205,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(209,89): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(210,89): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(211,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(226,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(226,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(226,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(231,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(231,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(232,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(232,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(232,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(240,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(240,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(242,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(242,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(242,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(257,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(257,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(257,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(334,12): warning C4102: 'defualt': unreferenced label
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(363,30): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(373,41): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(414,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(463,29): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(463,21): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(463,14): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(470,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(470,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(471,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(471,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(472,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(587,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(642,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(650,61): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(650,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(772,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(807,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(828,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(847,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(888,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1087,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1098,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1111,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1122,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1134,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1135,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1144,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1145,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1157,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1158,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1167,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1168,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1180,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1190,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1203,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1213,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1242,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1242,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1242,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1243,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1244,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1246,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1260,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1260,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1260,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1266,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1266,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1266,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1267,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1267,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1267,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1270,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1270,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1270,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1319,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1319,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1319,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1320,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1321,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1327,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1370,47): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1383,86): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1383,54): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1383,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1383,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1433,61): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1433,27): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1432,76): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1432,38): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1445,41): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1445,21): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1444,56): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1444,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1462,41): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1462,21): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1461,56): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1461,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\doublefree.cpp(1547,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TwoViewportExample.vcxproj -> D:\Lecture_10_OpenGL_Examples\TwoViewportExample-New\x64\Debug\TwoViewportExample.exe
